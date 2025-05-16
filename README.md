@@ -1,11 +1,11 @@
-## Deep Learning Course Assignments - VU Amsterdam
-Welcome to my Deep Learning course repository from VU Amsterdam. This repository is a collection of my worked-out assignments for the course, showcasing my journey through understanding and implementing neural networks. From foundational concepts to more advanced models, each folder and file here is a step towards demystifying the complex world of deep learning.
+## Deep Learning Course Assignments – VU Amsterdam
+Welcome to my repository for the Deep Learning course at VU Amsterdam. This repo contains the assignments I worked on as part of the course, reflecting my progress in understanding and applying key concepts in neural networks, from the basics to more advanced models.
 
-**- Pure Python 2-Layer Neural Network:**
-  An implementation of a simple neural network with one hidden layer, built from scratch using only Python. This section aims to demonstrate the foundational principles of neural networks, including forward propagation, backward propagation, and the basic learning algorithm without relying on high-level libraries.
+#### Pure Python Neural Network
+An implementation of a basic neural network with one hidden layer, built entirely from scratch using Python. This assignment focuses on the core mechanics of neural networks, including forward and backward propagation, without relying on external libraries.
 
-**- Numpy Neural Network:**
-  This section advances the complexity by incorporating numpy for efficient matrix multiplication, which is crucial for scaling neural network operations. The focus here is on understanding how to leverage numpy for handling the computations required by neural networks more efficiently.
+#### Numpy Neural Network
+Building on the first version, this implementation uses numpy to handle computations more efficiently
 
-**- VAE Using Keras:**
-  The final section showcases an implementation of a Variational Autoencoder (VAE), a more advanced neural network model, using the keras library. This part aims to dive into modern neural network architectures and how high-level libraries like keras can simplify the development of complex models.
+#### Variational Autoencoder with PyTorch
+A more advanced assignment exploring Variational Autoencoders.
